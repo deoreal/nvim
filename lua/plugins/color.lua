@@ -1,0 +1,5 @@
+return {
+	{
+		{ "deoreal/AmberFawn.nvim" },
+	},
+}
